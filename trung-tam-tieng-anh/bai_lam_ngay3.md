@@ -1,6 +1,6 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
-- **Họ tên: Hoa Vie**
+- **Họ tên: Hoa Việt Hoàng**
 - **Lớp: CNTT3**
 - **Link repository: https://github.com/hoaviethoang2002-lab/HN-KS26-CNTT3_Nhap-mon-CNTT_OnTap-Ngay3.git**
 - **Hệ điều hành (Windows/macOS): Windows**
